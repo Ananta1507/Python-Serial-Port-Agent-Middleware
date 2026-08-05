@@ -1,0 +1,17 @@
+{
+    "serial": {
+        "port": "COM3",
+        "baudrate": 9600,
+        "timeout": 1
+    },
+
+    "odoo": {
+        "url": "http://localhost:8069/api/qc/result",
+        "token": "YOUR_API_TOKEN"
+    },
+
+    "qc": {
+        "min": 8,
+        "max": 12
+    }
+}

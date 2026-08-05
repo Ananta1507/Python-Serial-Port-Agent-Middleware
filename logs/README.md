@@ -1,0 +1,12 @@
+Library / Pip List Yang Harus Diinstall
+
+Package            Version
+------------------ ---------
+python             3.14.6
+certifi            2026.7.22
+charset-normalizer 3.4.9
+idna               3.18
+pip                26.2
+pyserial           3.5
+requests           2.34.2
+urllib3            2.7.0
